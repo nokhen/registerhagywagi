@@ -1,0 +1,12 @@
+body {
+    line-height: 10px;
+    font-family: Pacifico;
+}
+.info {
+    display: block;
+    width: 9.5%;
+    overflow: hidden;
+    resize: both;
+    min-height: 40px;
+    line-height: 20px;
+}
